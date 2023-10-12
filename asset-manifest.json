@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1e5df3f.css",
+    "main.js": "/static/js/main.fd8c1394.js",
+    "static/media/pen_plotter.jfif": "/static/media/pen_plotter.73f8208598ae88256c7e.jfif",
+    "static/media/mini-rc-buggy_1.png": "/static/media/mini-rc-buggy_1.fc007a0f4e7f2077c0d0.png",
+    "static/media/prem.jfif": "/static/media/prem.441dc1f2429695d3dce7.jfif",
+    "static/media/aviral.png": "/static/media/aviral.c4163464dc21f5af5c0a.png",
+    "static/media/led_wall_1.png": "/static/media/led_wall_1.cd4282a072034e739db8.png",
+    "static/media/jagdeesh.png": "/static/media/jagdeesh.3686d4fc93baf73f9c65.png",
+    "static/media/hrishikesh.png": "/static/media/hrishikesh.5187eaccf8a164305213.png",
+    "static/media/mbsa.png": "/static/media/mbsa.b2b53e65150ff4b7218b.png",
+    "static/media/bharath.png": "/static/media/bharath.4f796b43f104bcc865a2.png",
+    "static/media/laser_tag.jfif": "/static/media/laser_tag.fd7ec5654edd0153bdb6.jfif",
+    "static/media/2.png": "/static/media/2.09fa755500398263eb0a.png",
+    "static/media/header_logo_1.png": "/static/media/header_logo_1.443d260ebb459c3d4a51.png",
+    "static/media/anirudh.png": "/static/media/anirudh.d3301ec0ee433b9c33f6.png",
+    "static/media/1.png": "/static/media/1.554408ca22537bccb4e4.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/gagana.png": "/static/media/gagana.7d6c8ac299acbe3b78d5.png",
+    "static/media/HD_Logo.png": "/static/media/HD_Logo.321da01a9c8a4f9350c8.png",
+    "static/media/aryan.png": "/static/media/aryan.cf0d01ca530d26dfe845.png",
+    "static/media/farc.jfif": "/static/media/farc.a927b0e753820b8b448e.jfif",
+    "static/media/robotic_arm.jfif": "/static/media/robotic_arm.51a236630c193818ed74.jfif",
+    "static/media/kaustubh.jfif": "/static/media/kaustubh.53731681d4dfe4640de6.jfif",
+    "static/media/adithyan.jfif": "/static/media/adithyan.961e17f613436e583b4b.jfif",
+    "static/media/ddr.jfif": "/static/media/ddr.f18e9c9af5cc4a093684.jfif",
+    "static/media/sajib.pdf": "/static/media/sajib.0f860b808fe06bae999d.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.a1e5df3f.css.map": "/static/css/main.a1e5df3f.css.map",
+    "main.fd8c1394.js.map": "/static/js/main.fd8c1394.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e5df3f.css",
+    "static/js/main.fd8c1394.js"
+  ]
+}
