@@ -21,10 +21,10 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Build the Next.js app
+    - name: Build the MBSA's React Application
       run: npm run build
 
-    - name: Deploy to mbsa branch
+    - name: Deploy to mbsa1 branch
       run: |
         git config --global user.email "mbsaiaditya@gmail.com"
         git config --global user.name "MBSA-INFINITY"

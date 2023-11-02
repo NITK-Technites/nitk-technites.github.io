@@ -14,27 +14,15 @@ import jagdeesh from "../../assets/team/jagdeesh.png";
 import aryan from "../../assets/team/aryan.png";
 import mbsa from "../../assets/team/mbsa.png";
 import {
-  SiVisualstudiocode,
-  SiPostman,
-  SiHeroku,
-  SiVercel,
-  SiNetlify
-} from "react-icons/si";
-import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
-  AiOutlineInstagram,
-  AiFillFacebook,
+  AiFillInstagram
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { BsLink, BsInstagram } from "react-icons/bs";
 
 const Toolstack = () => {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={sritam}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={sritam} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Sritam Panigrahi</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -62,7 +50,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={aviral}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={aviral} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Aviral</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -90,7 +78,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={apoorva}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={apoorva} alt=""  width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Apurva</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -118,7 +106,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={hrishikesh}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={hrishikesh} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Hrishikesh</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -146,7 +134,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={anirudh}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={anirudh} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Anirudh</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -174,7 +162,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={adithyan}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={adithyan} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Adithyan</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -202,7 +190,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={bharath}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={bharath} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Bharath</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -230,7 +218,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={gagana}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={gagana} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Gagana</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -258,7 +246,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={prem}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={prem} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Prem</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -286,7 +274,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={kaustubh}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={kaustubh} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Kaustubh</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -314,7 +302,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={aryan}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={aryan} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Aryan</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -342,7 +330,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={mbsa}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={mbsa} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>MBSA</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
@@ -370,7 +358,7 @@ const Toolstack = () => {
             </ul>
       </Col>
       <Col xs={12} md={2} className="tech-icons">
-      <img src={jagdeesh}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <img src={jagdeesh} alt="" width="150" height="150" style={{ borderRadius: '50%'}} />
       <p style={{ fontSize: '20px'}}>Jagdeesh</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
