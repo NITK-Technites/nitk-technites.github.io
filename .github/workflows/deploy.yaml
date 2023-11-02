@@ -42,6 +42,8 @@ jobs:
         rm -rf .github
         rm -rf package-lock.json
         rm -rf package.json
+        nano CNAME
+        echo "technites.nitk.ac.in" > CNAME
         git add .
         git commit -m "MBSA push"
         git push --force origin mbsa1
