@@ -38,6 +38,10 @@ jobs:
         ls
         git add -f build
         cp -r build/. .
+        rm -rf build
+        rm -rf .github
+        rm -rf package-lock.json
+        rm -rf package.json
         git add .
         git commit -m "MBSA push"
         git push --force origin mbsa1
