@@ -31,10 +31,13 @@ jobs:
         git checkout --orphan mbsa1
         ls
         rm -rf node_modules
+        ls
+        rm -rf public
+        ls
+        rm -rf src
+        ls
         git add -f build
         cp -r build/. .
-        nano CNAME
-        echo "technites.nitk.ac.in" > CNAME
         git add .
         git commit -m "MBSA push"
         git push --force origin mbsa1
